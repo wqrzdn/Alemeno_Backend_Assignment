@@ -1,0 +1,2 @@
+Loan Data Columns: ['Customer ID', 'Loan ID', 'Loan Amount', 'Tenure', 'Interest Rate', 'Monthly payment', 'EMIs paid on Time', 'Date of Approval', 'End Date']
+Customer Data Columns: ['Customer ID', 'First Name', 'Last Name', 'Age', 'Phone Number', 'Monthly Salary', 'Approved Limit']
