@@ -1150,7 +1150,7 @@ Loan rejection is a **successful business decision**, not a client error.
 ### Step 1: Clone Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/wqrzdn/Alemeno_Backend_Assignment
 cd Alemeno_Backend_Assignment
 ```
 
